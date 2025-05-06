@@ -7,7 +7,11 @@
 </h1>
 
 ---
-
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
+![example workflow](https://github.com/Lapisbin/Lapisbin/workflows/example_workflow/badge.svg)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Lapisbin.Lapisbin)
+![GitHub Metrics](https://metrics.lecoq.io/Lapisbin)
 ### 🌟 About Me
 
 - 🔭 I'm currently working on: **ExportAI: 수출 대응형 예측 플랫폼**
