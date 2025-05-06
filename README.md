@@ -1,10 +1,10 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=27&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hi+there+👋;I'm+Lapisbin;AI+%26+Data+Enthusiast+🌐;Always+learning+💡" alt="Typing SVG" />
 </h1>
-
-<p align="center">
-  <img src="https://github.com/Lapisbin/Lapisbin/blob/main/assets/starry-night-blue.gif" width="100%" />
-</p>
 
 ---
 
@@ -34,29 +34,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Lapisbin&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lapisbin&layout=compact&theme=tokyonight" height="165" />
 </p>
-
----
-
-### ✨ Fun Effects (별빛 효과)
-
-```html
-<!-- 예시용 HTML - README에서 직접 구현 불가능하므로 블로그/소개 페이지에 적용 가능 -->
-<style>
-  body {
-    background: #000;
-    overflow: hidden;
-  }
-
-  .stars {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    background: white;
-    animation: blink 2s infinite;
-  }
-
-  @keyframes blink {
-    0%, 100% { opacity: 0; }
-    50% { opacity: 1; }
-  }
-</style>
