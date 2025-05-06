@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3BkM2VqMXhjbG51bjl5N2F3NWJkOTdnbGlhZXE0NWxlenlzaWhncCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Id71NFYfSBOKv2IexE/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">
@@ -13,8 +13,8 @@
 - 🔭 I'm currently working on: **ExportAI: 수출 대응형 예측 플랫폼**
 - 💡 Interested in: AI Model Development, Data Visualization, NLP, MLops
 - 🧠 Studying: XGBoost, LSTM, KoBERT, Prompt Engineering
-- 📫 How to reach me: `lapisbin@naver.com`  
-- ✨ Motto: *"Keep Learning, Keep Building"*
+- 📫 How to reach me: `kb010126@naver.com`  
+- ✨ Motto: *"Keep Learning, Keep Going"*
 
 ---
 
