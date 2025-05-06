@@ -14,7 +14,7 @@
 - 💡 Interested in: AI Model Development, Data Visualization, NLP, MLops
 - 🧠 Studying: XGBoost, LSTM, KoBERT, Prompt Engineering
 - 📫 How to reach me: `kb010126@naver.com`  
-- 📷 Instagram: [![Instagram](https://img.shields.io/badge/-@lapis_bin-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/4xbin/)
+- 📷 Instagram: [![Instagram](https://img.shields.io/badge/-@4xbin-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/4xbin/)
 - 🗂️ Notion: [![Notion](https://img.shields.io/badge/-My%20Notion-000000?style=flat&logo=notion&logoColor=white)](https://www.notion.so/DSBA-1e8671bafae780f68b3fedea2bf10f45?pvs=11)
 - ✨ Motto: *"Keep Learning, Keep Going"*
 
