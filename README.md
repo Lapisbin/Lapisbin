@@ -7,7 +7,6 @@
 </h1>
 
 ---
-![Lapisbin's github stats](https://github-readme-stats.vercel.app/api?username=Lapisbin&show_icons=true&hide_title=true&hide=prs&theme=cobalt)
 
 ### 🌟 About Me
 
