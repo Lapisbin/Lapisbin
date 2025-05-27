@@ -8,7 +8,7 @@
 
 ---
 
-### 🌟 About Me 🌟
+### 🌟 About Me
 
 - 🔭 I'm currently working on: **ExportAI: 수출 대응형 예측 플랫폼**
 - 💡 Interested in: AI Model Development, Data Visualization, NLP, MLops
